@@ -19,3 +19,17 @@ To run the project, just run the code in visual studio and you can immediately s
 - TokyoEdtech - Watched his videos on the simple snake python game.
 --I did my own twist of the game. Where it was more of a shooting game instead of an eating snake game. Link can be found below of his channel.
 https://www.youtube.com/c/TokyoEdTech
+
+# Project 2 - IT 3038C - Eric Miller
+
+## Object of the Game
+
+-Shoot the black enemy dot with the canons you have without hitting the enemy with the player that is being moved
+
+## Goal of this Script/ New additions
+-To create a simple game andto play where the user tries to get the most points as possible
+
+## Credit 
+- TokyoEdtech - Watched his videos on the simple snake python game.
+--I did my own twist of the game. Where it was more of a shooting game instead of an eating snake game. Link can be found below of his channel.
+https://www.youtube.com/c/TokyoEdTech
