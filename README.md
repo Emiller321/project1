@@ -22,12 +22,9 @@ https://www.youtube.com/c/TokyoEdTech
 
 # Project 2 - IT 3038C - Eric Miller
 
-## Object of the Game
-
--Shoot the black enemy dot with the canons you have without hitting the enemy with the player that is being moved
-
-## Goal of this Script/ New additions
--To create a simple game andto play where the user tries to get the most points as possible
+## New additions
+-Made the movement of the player smother where the player can now turn left and turn right. 
+-Made multiple Enemies
 
 ## Credit 
 - TokyoEdtech - Watched his videos on the simple snake python game.
